@@ -17,7 +17,7 @@ end
 
 
 array = [32,4,1,34,76,8932,100]
-result =  (array)
+result =  second_largest(array)
 puts result.inspect
 puts result[array.length - 2]
 
